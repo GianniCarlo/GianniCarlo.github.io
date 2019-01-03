@@ -1,0 +1,46 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+h1:after {
+    content:' ';
+    display:block;
+    border: 0.5px solid gray;
+}
+
+.profile-img {
+    margin-top: -5px;
+    margin-right: 5px;
+    width: 35px;
+    height: 35px;
+    border-radius: 18px;
+}
+
+.site-header, .site-nav, footer {
+    background: #212121;
+}
+
+.site-title, .site-title:visited, .social-media-list > li > a {
+    color: white;
+}
+
+.site-nav .page-link {
+    color: white;
+}
+
+.site-nav .menu-icon > svg {
+    fill: white;
+}
+
+.svg-icon {
+    fill: white;
+}
+
+.page-content {
+    background: #f2f2f2;
+}
+
+.footer-col-wrapper { 
+    color: white;
+}
