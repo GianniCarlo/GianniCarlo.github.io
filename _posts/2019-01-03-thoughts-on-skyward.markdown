@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Book] Thoughts on Skyward"
+title:  "[Book] Thoughts on Skyward by Brandon Sanderson"
 date:   2019-01-03
 categories: book review
 published: true
