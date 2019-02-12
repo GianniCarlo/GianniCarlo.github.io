@@ -6,7 +6,6 @@ categories: book review
 published: true
 ---
 
-# The Rithmatist
 Who would have thought that a chalk-based magic system would be interesting? Well, certainly not me, but the Rithmatist provides a good and compelling read.
 
 We follow the life of Joel, a high school student, who despite being a regular person, is fascinated by the magical art of Rithmatics. 
